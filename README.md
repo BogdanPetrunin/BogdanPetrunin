@@ -32,3 +32,4 @@
 
 - Telegram: [@BogdanPetrunin](https://t.me/BogdanPetrunin)
 - Email: [bogdan_petrunin22@mail.ru](mailto:bogdan_petrunin22@mail.ru)
+- 📄 [Резюме (PDF)](Petrunin_Bogdan_Junior_Data_Analyst.pdf)
