@@ -10,6 +10,13 @@
 
 **Стек:** SQL (PostgreSQL) · Python (pandas, numpy, matplotlib, seaborn) · Jupyter · DataLens · Git
 
+## Сейчас изучаю
+
+- основы машинного обучения
+- ClickHouse
+- PySpark
+- автоматизацию пайплайнов данных (Airflow)
+
 ## Проекты
 
 | Проект | Что сделал |
