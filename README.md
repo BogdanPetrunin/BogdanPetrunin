@@ -8,7 +8,7 @@
 
 Отвечаю на бизнес-вопросы с помощью данных: проверяю и чищу данные, считаю продуктовые метрики, планирую и анализирую A/B-тесты, строю дашборды и превращаю результаты в понятные выводы и рекомендации.
 
-**Стек:** SQL (PostgreSQL) · Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn) · DataLens · Power BI · Git · Google Sheets / Excel 
+**Стек:** SQL (PostgreSQL) · Python (pandas, numpy, scipy, statsmodels, matplotlib, seaborn) · DataLens · Power BI · Git · Google Sheet / Excel 
 
 ## Сейчас изучаю
 
