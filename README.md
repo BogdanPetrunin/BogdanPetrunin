@@ -8,7 +8,7 @@
 
 Отвечаю на бизнес-вопросы с помощью данных: проверяю и чищу данные, ищу закономерности и превращаю их в понятные выводы и рекомендации.
 
-**Стек:** SQL (PostgreSQL) · Python (pandas, numpy, matplotlib, seaborn) · Jupyter · DataLens · Git
+**Стек:** SQL (PostgreSQL) · Python (pandas, numpy, matplotlib, seaborn) · DataLens · Power BI ·Git · Google Sheet/Ecxel 
 
 ## Сейчас изучаю
 
